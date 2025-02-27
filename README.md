@@ -1,6 +1,5 @@
 
-Accenture North America Data Analytics and Visualization Job Simulation on
-Forage - November 2024
+# Accenture North America Data Analytics and Visualization Job Simulation on Forage - November 2024
 
 ![Screenshot 2025-02-27 142015](https://github.com/user-attachments/assets/8aedf417-ab51-4ec3-a905-879e42250999)
 
